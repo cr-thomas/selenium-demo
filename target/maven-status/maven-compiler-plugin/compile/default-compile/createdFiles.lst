@@ -1,0 +1,5 @@
+com/webstaurant/selenium/tests/BaseTest.class
+com/webstaurant/selenium/pages/ViewCartPage.class
+com/webstaurant/selenium/pages/HomePage.class
+com/webstaurant/selenium/tests/AddToCartTest.class
+com/webstaurant/selenium/pages/ProductListingPage.class

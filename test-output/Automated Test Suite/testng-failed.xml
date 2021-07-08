@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automated Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Functional Test(failed)">
+    <classes>
+      <class name="com.webstaurant.selenium.tests.AddToCartTest">
+        <methods>
+          <include name="initialize"/>
+          <include name="cleanup"/>
+          <include name="runTest"/>
+        </methods>
+      </class> <!-- com.webstaurant.selenium.tests.AddToCartTest -->
+    </classes>
+  </test> <!-- Functional Test(failed) -->
+</suite> <!-- Failed suite [Automated Test Suite] -->
